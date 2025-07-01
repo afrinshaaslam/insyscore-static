@@ -10823,7 +10823,7 @@ blockquote footer {
   color: var(--white);
 }
 .btn-gradient-purple-pink {
-  background-image: linear-gradient(to right, #8b14b1, #d53d6e, #8b14b1);
+  background-image: linear-gradient(to right, #234159, #4682b4, #234159);
   background-size: 200% auto;
   color: var(--white);
 }
